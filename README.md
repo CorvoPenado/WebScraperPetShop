@@ -1,4 +1,4 @@
-[![Colaborador](https://img.shields.io/badge/Colaborador-brantst-green)]([https://github.com/brantst](https://github.com/brantst))
+[![Colaborador](https://img.shields.io/badge/Colaborador-brantst-green)](https://github.com/brantst)
 
 # `⛏️DataMiner Pet`
 # 🚀 INSTRUÇÕES IMPORTANTES PARA BUILDAR O PROJETO 🚀
