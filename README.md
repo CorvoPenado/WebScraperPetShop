@@ -1,3 +1,6 @@
+- [CorvoPenado]([https://github.com/seu-usuario](https://github.com/CorvoPenado))  
+- [brantst]([https://github.com/usuario-do-colega](https://github.com/brantst))  
+
 # `⛏️DataMiner Pet`
 # 🚀 INSTRUÇÕES IMPORTANTES PARA BUILDAR O PROJETO 🚀
 
