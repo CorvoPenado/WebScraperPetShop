@@ -2,6 +2,9 @@
 
 # `⛏️DataMiner Pet`
 # 🚀 INSTRUÇÕES IMPORTANTES PARA BUILDAR O PROJETO 🚀
+---
+
+
 
 ---
 
@@ -95,13 +98,4 @@ Aqui está a **estrutura completa** do projeto. Organize os arquivos **exatament
   - [`setup.py`](https://github.com/brantst/scraperALPHA/blob/main/setup.py)
 
 
-
----
-
-## 📋 Trello:
-
-📌 **Gerencie as tarefas do projeto no Trello:**  
-[Trello Board - Projeto Petshop Scrapper](https://trello.com/b/0VCSx9ll/projeto-petshop-scrapper)
-
----
 
