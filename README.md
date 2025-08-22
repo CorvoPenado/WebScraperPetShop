@@ -46,7 +46,7 @@ Após a conclusão da extração, o script organiza e salva os dados de forma au
 
 **Execução do Script:**
 
-![Demonstração do Script](assets/demoTest5mb.gif)
+![Demonstração do Script](assets/demo.gif)
 
 **Exemplo da Planilha Gerada:**
 
