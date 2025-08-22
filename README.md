@@ -33,6 +33,15 @@ Após a conclusão da extração, o script organiza e salva os dados de forma au
 
 ---
 
+## 🛠️ Ferramentas Utilizadas
+
+-   **Selenium:** Automação do navegador para interagir com o site da Petz e coletar dados de páginas dinâmicas.
+-   **BeautifulSoup:** Parsing do conteúdo HTML para facilitar a extração e manipulação das informações dos produtos.
+-   **OpenPyXL:** Biblioteca para criar e gerenciar os arquivos Excel (`.xlsx`) com os dados coletados.
+-   **Tkinter:** Construção da interface gráfica (GUI), permitindo que o usuário interaja com o script de forma visual.
+
+---
+
 ## 📸 Demonstração
 
 **Execução do Script:**
