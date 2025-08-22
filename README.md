@@ -4,9 +4,44 @@
 # 🚀 INSTRUÇÕES IMPORTANTES PARA BUILDAR O PROJETO 🚀
 ---
 
+## ⚙️ Funcionalidades Principais
 
+Este script foi desenvolvido para automatizar a coleta de informações de produtos no site Petz, tendo o site Petily nos arquivos porém com botão desativado, mas funcional caso deseje ativar
+
+### 1. Extração de Dados
+
+O robô navega até a categoria de produtos desejada no site alvo e utiliza seletores específicos para localizar as informações de cada item.
+
+-   **Método de Busca:** Os itens são identificados com base em seus seletores `ID`, `class` e `CSS Path`.
+-   **Dados Coletados:** Para cada produto, o script extrai um conjunto completo de informações, incluindo:
+    -   Nome do produto
+    -   Marca
+    -   Variações de preço (promoção, preço cheio, preço para assinantes)
+    -   Status de promoção (se está em oferta ou não)
+    -   Código de barras
+    -   Código interno do produto (SKU)
+    -   E outros dados relevantes.
+
+### 2. Geração de Saída
+
+Após a conclusão da extração, o script organiza e salva os dados de forma automática e estruturada.
+
+-   **Criação de Diretório:** Uma pasta chamada `Produtos` é criada automaticamente no local onde o script foi executado.
+-   **Exportação para Excel:** Todos os dados coletados são salvos em uma planilha do Excel.
+-   **Nomenclatura do Arquivo:** O arquivo Excel segue um padrão de nomenclatura claro e organizado: `products_[subcategoria]_[categoria].xlsx`.
+    -   *Exemplo:* `products_Vermífugo_caes.xlsx`
 
 ---
+
+## 📸 Demonstração
+
+**Execução do Script:**
+
+![Demonstração do Script](assets/demoTest5mb.gif)
+
+**Exemplo da Planilha Gerada:**
+
+![Exemplo da Planilha Excel Gerada](assets/excel_dados_petz.png)
 
 ## 🔴 IMPORTANTE:
 
